@@ -2,7 +2,7 @@
 
 This repository provides the PyTorch implementation of the paper [Improved Certified Defenses against Data Poisoning with (Deterministic) Finite Aggregation](https://proceedings.mlr.press/v162/wang22m.html). 
 
-Examples can be found in `example_scripts.txt`. 
+Guidelines can be found in `guideline.md`. 
 
 ## Paper 
 **Improved Certified Defenses against Data Poisoning with (Deterministic) Finite Aggregation**  
