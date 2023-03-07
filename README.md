@@ -13,9 +13,9 @@ Wenxiao Wang, Alexander Levine and Soheil Feizi
 International Conference on Machine Learning (**ICML**), 2022.  
 open access: [Arxiv](https://arxiv.org/abs/2202.02628); [ICML](https://proceedings.mlr.press/v162/wang22m.html).
 
-**Lethal Dose Conjecture on Data Poisoning**
-Wenxiao Wang, Alexander Levine and Soheil Feizi
-Conference on Neural Information Processing Systems (**NeurIPS**), 2022.
+**Lethal Dose Conjecture on Data Poisoning**  
+Wenxiao Wang, Alexander Levine and Soheil Feizi  
+Conference on Neural Information Processing Systems (**NeurIPS**), 2022.  
 open access:  [Arxiv](https://arxiv.org/abs/2208.03309); [NeurIPS](https://openreview.net/forum?id=PYnSpt3jAz)
 
 
